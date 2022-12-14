@@ -28,7 +28,7 @@ Any code before commit hash 7e79bc3965f05536acd933b6e984f691b1295469
 (inclusive) and/or is in the branch "MIT" is under the MIT license
 
 If there is any doubt over which license code is under, please view
-https://github.com/etherparty/explorer/compare/MIT...master or run
+
 "git diff mit master"
 
 All code after the commit hash 7e79bc3965f05536acd933b6e984f691b1295469

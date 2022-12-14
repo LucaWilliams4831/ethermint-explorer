@@ -271,11 +271,6 @@
   "resolved" "https://registry.npmjs.org/binary-extensions/-/binary-extensions-1.13.1.tgz"
   "version" "1.13.1"
 
-"bindings@1.2.x":
-  "integrity" "sha512-u4cBQNepWxYA55FunZSM7wMi55yQaN0otnhhilNoWHq0MfOfJeQx0v0mRRpolGOExPjZcl6FtB0BB8Xkb88F0g=="
-  "resolved" "https://registry.npmjs.org/bindings/-/bindings-1.2.1.tgz"
-  "version" "1.2.1"
-
 "bl@~0.9.0":
   "integrity" "sha512-njlCs8XLBIK7LCChTWfzWuIAxkpmmLXcL7/igCofFT1B039Sz0IPnAmosN5QaO22lU4qr8LcUz2ojUlE6pLkRQ=="
   "resolved" "https://registry.npmjs.org/bl/-/bl-0.9.5.tgz"
@@ -355,14 +350,6 @@
     "snapdragon-node" "^2.0.1"
     "split-string" "^3.0.2"
     "to-regex" "^3.0.1"
-
-"bufferutil@1.2.x":
-  "integrity" "sha512-rtE2s2JHFmfaldMwWFSUaPTxfxq6Um3xw9PEUK5bAfW83UTXp3WQpE7slnD2bd9GUgb0BA7JC/7ZxeBrIq+8Dw=="
-  "resolved" "https://registry.npmjs.org/bufferutil/-/bufferutil-1.2.1.tgz"
-  "version" "1.2.1"
-  dependencies:
-    "bindings" "1.2.x"
-    "nan" "^2.0.5"
 
 "bytes@2.1.0":
   "integrity" "sha512-k9VSlRfRi5JYyQWMylSOgjld96ta1qaQUIvmn+na0BzViclH04PBumewv4z5aeXNkn6Z/gAN5FtPeBLvV20F9w=="
@@ -2207,11 +2194,6 @@
   dependencies:
     "readable-stream" "~1.1.9"
     "stream-counter" "~0.2.0"
-
-"nan@^2.0.5":
-  "integrity" "sha512-2ZTgtl0nJsO0KQCjEpxcIr5D+Yv90plTitZt9JBfQvVJDS5seMl3FOvsh3+9CoYWXf/1l5OaZzzF6nDm4cagaQ=="
-  "resolved" "https://registry.npmjs.org/nan/-/nan-2.17.0.tgz"
-  "version" "2.17.0"
 
 "nan@~1.0.0":
   "integrity" "sha512-Wm2/nFOm2y9HtJfgOLnctGbfvF23FcQZeyUZqDD8JQG3zO5kXh3MkQKiUaA68mJiVWrOzLFkAV1u6bC8P52DJA=="
